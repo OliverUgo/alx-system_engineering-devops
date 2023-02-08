@@ -1,0 +1,2 @@
+#!/bin/bash
+rm betty tmp/0x00-shell_basics
